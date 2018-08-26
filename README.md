@@ -90,6 +90,16 @@
 
 [SmartAuth: User-Centered Authorization for the Internet of Things](Aug/43.md)
 
+#### Week12, Aug 26
+
+[Global-Scale Secure Multiparty Computation](Aug/44.md)
+
+[IoT Goes Nuclear: Creating a ZigBee Chain Reaction](Aug/45.md)
+
+[Crowd-GPS-Sec: Leveraging Crowdsourcing to Detect and Localize GPS Spoofing Attacks](Aug/46.md)
+
+[Speechless: Analyzing the Threat to Speech Privacy from Smartphone Motion Sensors](Aug/47.md)
+
 ***
 
 #### Books
