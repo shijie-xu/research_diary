@@ -100,6 +100,10 @@
 
 [Speechless: Analyzing the Threat to Speech Privacy from Smartphone Motion Sensors](Aug/47.md)
 
+#### Week 13, Sep 2
+
+- [Lightweight Cryptography Standards Developed in ISO/IEC SC27](Sep/48.md)
+
 ***
 
 #### Books
