@@ -104,6 +104,10 @@
 
 - [Lightweight Cryptography Standards Developed in ISO/IEC SC27](Sep/48.md)
 
+#### Week 14, Sep 9
+
+- [SEC 2017](Sep/51.md)
+
 ***
 
 #### Books
