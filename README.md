@@ -108,6 +108,10 @@
 
 - [SEC 2017](Sep/51.md)
 
+#### Week13, Sep 16
+
+- [Mobile Edge Cloud System: Architectures, Challenges, and Approaches](Sep/53.md)
+
 ***
 
 #### Books
