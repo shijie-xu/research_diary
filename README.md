@@ -2,9 +2,9 @@
 
 ### 2019
 
-Jun 22,  [A_Balanced_Spectral_Clustering_Algorithm.pdf](2019\A_Balanced_Spectral_Clustering_Algorithm.pdf) , Main theorem and proof to vertex-weighted Laplacian
+Jun 22,  [A_Balanced_Spectral_Clustering_Algorithm.pdf](2019/A_Balanced_Spectral_Clustering_Algorithm.pdf) , Main theorem and proof to vertex-weighted Laplacian
 
-Jun 29,  [draft.pdf](2019\draft.pdf) , There exists a polynomial-time algorithm that give a $\epsilon$-approximation.
+Jun 29,  [draft.pdf](2019/draft.pdf) , There exists a polynomial-time algorithm that give a $\epsilon$-approximation.
 
 ### 2018
 
