@@ -1,20 +1,28 @@
 ### Contents
 
+### 2019
+
+Jun 22,  [A_Balanced_Spectral_Clustering_Algorithm.pdf](2019\A_Balanced_Spectral_Clustering_Algorithm.pdf) , Main theorem and proof to vertex-weighted Laplacian
+
+Jun 29,  [draft.pdf](2019\draft.pdf) , There exists a polynomial-time algorithm that give a $\epsilon$-approximation.
+
+### 2018
+
 #### Week 2, Jun 17
 
-[Collusion-Tolerable Privacy-Preserving Sum and Product Calculation without Secure Channel](2.md)
+[Collusion-Tolerable Privacy-Preserving Sum and Product Calculation without Secure Channel](Jun/2.md)
 
-[PDA: Semantically Secure Time-Series Data Analytics with Dynamic Subgroups](3.md)
+[PDA: Semantically Secure Time-Series Data Analytics with Dynamic Subgroups](Jun/3.md)
 
-[Message in a Sealed Bottle: Privacy Preserving Friending in Social Networks](5.md)
+[Message in a Sealed Bottle: Privacy Preserving Friending in Social Networks](Jun/5.md)
 
 #### Week3, Jun 24  
 
-[The Return of Coppersmith’s Attack: Practical Factorization of Widely Used RSA Moduli](6.md), CCS 2017, star
+[The Return of Coppersmithâ€™s Attack: Practical Factorization of Widely Used RSA Moduli](Jun/6.md), CCS 2017, star
 
-[walk2friends: Inferring Social Links from Mobility Profiles ](7.md), CCS 2017
+[walk2friends: Inferring Social Links from Mobility Profiles ](Jun/7.md), CCS 2017
 
-[Generating Synthetic Decentralized Social Graphs with Local Differential Privacy](9.md), CCS 2017
+[Generating Synthetic Decentralized Social Graphs with Local Differential Privacy](Jun/9.md), CCS 2017
 
 #### Week4, Jul 1
 
@@ -48,7 +56,7 @@
 
 [Poster: Locally Differentially Private Frequent Itemset Mining](Jul/24.md), SP17
 
-[Heavy Hitter Estimation over Set-Valued Data with Local Differential Privacy](Jul/25.md)， CCS16
+[Heavy Hitter Estimation over Set-Valued Data with Local Differential Privacy](Jul/25.md)ï¼Œ CCS16
 
 #### Week8, Jul 29
 
